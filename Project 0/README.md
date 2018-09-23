@@ -4,7 +4,7 @@
 ### 测试环境配置代码1
 Project0.cpp
 ### 测试结果：
-![](https://github.com/Wonz5130/Computer-Graphics/raw/master/Project%200/img/Snipaste_2018-09-23_11-06-25.pn)
+![](https://github.com/Wonz5130/Computer-Graphics/raw/master/Project%200/img/Snipaste_2018-09-23_11-06-25.png)
 
 ### 测试环境配置代码2
 Project0(version2).cpp
