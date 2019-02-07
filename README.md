@@ -1,2 +1,2 @@
 # Computer-Graphics
-:small_red_triangle:大三上学习《计算机图形学》的代码
+:small_red_triangle:南邮《计算机图形学》课堂课后 + 作业代码
